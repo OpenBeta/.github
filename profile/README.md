@@ -9,6 +9,7 @@ We're building the first open source and open license climbing platform → [ope
 
 * Frontend: https://github.com/OpenBeta/open-tacos
 * Backend: https://github.com/OpenBeta/openbeta-graphql
+* Climbing grade utilities: https://github.com/OpenBeta/sandbag
 
 ### Data
 
